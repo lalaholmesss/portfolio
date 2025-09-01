@@ -17,6 +17,9 @@ export default {
         'yellow-highlight': '#e9d177',
         'pink-highlight': '#f9cdd9',
         'violet-highlight': '#d7d8fd',
+      },
+      width: {
+        '200': '232px'
       }
       
     },
